@@ -1,0 +1,874 @@
+[
+  {
+    "disease": "panic disorder",
+    "treatment": "You should start CBT therapy with breathing and relaxation training. You should also maintain regular sleep, exercise regularly, manage stress, and avoid caffeine, alcohol, smoking, and recreational drugs."
+  },
+  {
+    "disease": "vaginitis",
+    "treatment": "You should maintain good genital hygiene, avoid scented soaps or douching, wear breathable cotton underwear, and get tested to know whether the cause is yeast, bacteria, or an STI."
+  },
+  {
+    "disease": "transient ischemic attack",
+    "treatment": "You should treat this as a medical emergency because it can be a warning sign of stroke. You should control blood pressure, diabetes, cholesterol, stop smoking, and follow a stroke-prevention plan."
+  },
+  {
+    "disease": "pyelonephritis",
+    "treatment": "You should seek medical care quickly because kidney infection can become serious. You should drink fluids, rest, and monitor fever, flank pain, and vomiting."
+  },
+  {
+    "disease": "chronic pain disorder",
+    "treatment": "You should follow a long-term pain-management plan with physical therapy, gentle exercise, CBT, sleep improvement, and stress control."
+  },
+  {
+    "disease": "problem during pregnancy",
+    "treatment": "You should consult an obstetrician and monitor symptoms such as bleeding, abdominal pain, severe vomiting, swelling, or high blood pressure."
+  },
+  {
+    "disease": "fibromyalgia",
+    "treatment": "You should do regular low-impact exercise, improve sleep, reduce stress, and consider CBT or physiotherapy."
+  },
+  {
+    "disease": "acute pancreatitis",
+    "treatment": "You should seek hospital care because acute pancreatitis can be serious. Treatment usually includes IV fluids, pain control, fasting or controlled diet, and treating the cause."
+  },
+  {
+    "disease": "asthma",
+    "treatment": "You should avoid triggers such as dust, smoke, cold air, and strong smells. You should follow an asthma action plan and seek emergency care if breathing becomes severe."
+  },
+  {
+    "disease": "infectious gastroenteritis",
+    "treatment": "You should drink oral rehydration solution, take fluids frequently, rest, and eat light foods. You should seek care if there is dehydration, blood in stool, or high fever."
+  },
+  {
+    "disease": "acute sinusitis",
+    "treatment": "You should use saline nasal spray or irrigation, drink fluids, take steam inhalation, rest, and manage pain or fever."
+  },
+  {
+    "disease": "chalazion",
+    "treatment": "You should apply warm compresses several times daily, avoid squeezing the lump, and keep the eyelids clean."
+  },
+  {
+    "disease": "vaginal yeast infection",
+    "treatment": "You should keep the area dry, avoid scented products, wear cotton underwear, and seek care if the infection is recurrent or during pregnancy."
+  },
+  {
+    "disease": "ingrown toe nail",
+    "treatment": "You should soak the foot in warm water, wear loose shoes, trim nails straight, and avoid cutting deep into the nail corner."
+  },
+  {
+    "disease": "corneal disorder",
+    "treatment": "You should avoid rubbing your eye, stop contact lens use, protect the eye, and see an eye specialist."
+  },
+  {
+    "disease": "stroke",
+    "treatment": "You should seek emergency hospital care immediately. After emergency treatment, rehabilitation, physiotherapy, speech therapy, and risk-factor control are important."
+  },
+  {
+    "disease": "hyperkalemia",
+    "treatment": "You should seek urgent care if potassium is high, especially with weakness, palpitations, kidney disease, or ECG changes."
+  },
+  {
+    "disease": "cornea infection",
+    "treatment": "You should get urgent eye care, avoid contact lenses, and protect the eye from further injury."
+  },
+  {
+    "disease": "chronic sinusitis",
+    "treatment": "You should use saline irrigation, avoid allergens, manage nasal blockage, and consult an ENT specialist if symptoms persist."
+  },
+  {
+    "disease": "conductive hearing loss",
+    "treatment": "You should treat the underlying cause such as ear wax, infection, fluid, or middle-ear problem and get an ENT evaluation."
+  },
+  {
+    "disease": "marijuana abuse",
+    "treatment": "You should start counseling, CBT, motivational therapy, support groups, and avoid triggers that lead to use."
+  },
+  {
+    "disease": "bursitis",
+    "treatment": "You should rest the affected joint, apply ice, avoid repeated pressure, and start physiotherapy after pain improves."
+  },
+  {
+    "disease": "actinic keratosis",
+    "treatment": "You should protect your skin from sunlight, use sunscreen, and visit a dermatologist because it can sometimes progress to skin cancer."
+  },
+  {
+    "disease": "acute otitis media",
+    "treatment": "You should control pain, drink fluids, rest, and follow up if fever, ear discharge, or severe pain occurs."
+  },
+  {
+    "disease": "chronic obstructive pulmonary disease (copd)",
+    "treatment": "You should stop smoking, avoid dust and smoke, do pulmonary rehabilitation, take vaccines, and monitor breathing."
+  },
+  {
+    "disease": "spondylosis",
+    "treatment": "You should correct posture, do neck or back exercises, avoid prolonged strain, and start physiotherapy."
+  },
+  {
+    "disease": "injury to the shoulder",
+    "treatment": "You should rest the shoulder, apply ice, avoid heavy lifting, use sling support if needed, and start physiotherapy when safe."
+  },
+  {
+    "disease": "heart block",
+    "treatment": "You should get cardiology evaluation, monitor dizziness or fainting, and avoid medicines that can worsen slow heart rate unless advised."
+  },
+  {
+    "disease": "attention deficit hyperactivity disorder (adhd)",
+    "treatment": "You should use behavioral therapy, routine planning, school or work support, sleep routine, and family education."
+  },
+  {
+    "disease": "injury to the arm",
+    "treatment": "You should rest the arm, apply ice, elevate it, and get an X-ray if there is severe pain, swelling, deformity, or difficulty moving."
+  },
+  {
+    "disease": "complex regional pain syndrome",
+    "treatment": "You should start early physiotherapy, desensitization therapy, pain-specialist care, and psychological support."
+  },
+  {
+    "disease": "injury to the trunk",
+    "treatment": "You should rest, apply ice or heat as appropriate, and avoid heavy activity. You should seek urgent care for chest pain, breathing difficulty, or abdominal pain."
+  },
+  {
+    "disease": "vulvodynia",
+    "treatment": "You should avoid irritants, use gentle hygiene, consider pelvic-floor physiotherapy, and follow gynecology care."
+  },
+  {
+    "disease": "concussion",
+    "treatment": "You should rest physically and mentally at first, then gradually return to normal activity. You should avoid repeat head injury."
+  },
+  {
+    "disease": "neuralgia",
+    "treatment": "You should identify and treat the cause, avoid triggers, and consider physiotherapy or nerve-specialist care."
+  },
+  {
+    "disease": "bipolar disorder",
+    "treatment": "You should maintain psychiatric follow-up, regular sleep, therapy, stress control, and avoid alcohol or drugs."
+  },
+  {
+    "disease": "hypoglycemia",
+    "treatment": "You should take fast-acting sugar immediately if conscious, then eat a meal or snack and recheck blood glucose."
+  },
+  {
+    "disease": "hiatal hernia",
+    "treatment": "You should eat small meals, avoid late meals, reduce weight if needed, elevate the head during sleep, and avoid reflux triggers."
+  },
+  {
+    "disease": "allergy",
+    "treatment": "You should avoid known allergens, keep your environment clean, and have an emergency plan if you have severe allergy."
+  },
+  {
+    "disease": "chronic otitis media",
+    "treatment": "You should keep the ear dry, avoid inserting objects, and follow ENT care for recurrent discharge or hearing loss."
+  },
+  {
+    "disease": "lymphedema",
+    "treatment": "You should use compression garments, elevate the limb, exercise regularly, care for the skin, and consider manual lymph drainage therapy."
+  },
+  {
+    "disease": "acute bronchospasm",
+    "treatment": "You should sit upright, avoid the trigger, use a rescue inhaler if available, and seek emergency care if breathing is severe."
+  },
+  {
+    "disease": "sciatica",
+    "treatment": "You should stay gently active, do stretching and physiotherapy, correct posture, and seek urgent care for weakness or bladder/bowel problems."
+  },
+  {
+    "disease": "degenerative disc disease",
+    "treatment": "You should exercise regularly, do physiotherapy, improve posture, manage weight, and avoid heavy strain."
+  },
+  {
+    "disease": "diverticulosis",
+    "treatment": "You should eat a high-fiber diet, drink enough water, exercise regularly, and prevent constipation."
+  },
+  {
+    "disease": "pain after an operation",
+    "treatment": "You should follow the surgeon’s instructions, care for the wound, move as advised, and watch for fever, redness, or discharge."
+  },
+  {
+    "disease": "fungal infection of the skin",
+    "treatment": "You should keep the skin dry, avoid sharing towels, wear loose clothes, and maintain hygiene."
+  },
+  {
+    "disease": "injury to the leg",
+    "treatment": "You should rest the leg, apply ice, compress and elevate it, and avoid weight-bearing if pain is severe."
+  },
+  {
+    "disease": "mitral valve disease",
+    "treatment": "You should follow up with a cardiologist, monitor symptoms, do echocardiogram checks, and manage salt intake if heart failure symptoms occur."
+  },
+  {
+    "disease": "parkinson disease",
+    "treatment": "You should follow neurology care, exercise regularly, do physiotherapy, speech therapy, and take fall-prevention steps."
+  },
+  {
+    "disease": "gout",
+    "treatment": "You should rest the painful joint, apply ice, drink fluids, reduce alcohol and red meat, and manage uric acid long-term."
+  },
+  {
+    "disease": "otitis media",
+    "treatment": "You should rest, drink fluids, control pain, and follow up if fever, severe pain, or recurrent ear infection occurs."
+  },
+  {
+    "disease": "drug abuse (opioids)",
+    "treatment": "You should start addiction-specialist care, counseling, support groups, overdose-prevention planning, and relapse-prevention therapy."
+  },
+  {
+    "disease": "acute kidney injury",
+    "treatment": "You should seek urgent medical evaluation, treat dehydration or infection, stop kidney-harming medicines if advised, and monitor urine output."
+  },
+  {
+    "disease": "threatened pregnancy",
+    "treatment": "You should seek obstetric evaluation, monitor bleeding and cramps, get ultrasound/testing, and avoid unsafe medicines."
+  },
+  {
+    "disease": "gum disease",
+    "treatment": "You should brush and floss properly, get dental scaling, stop smoking, and control diabetes if present."
+  },
+  {
+    "disease": "gastrointestinal hemorrhage",
+    "treatment": "You should seek emergency care because GI bleeding can be dangerous. Hospital care may include IV fluids, endoscopy, and blood transfusion."
+  },
+  {
+    "disease": "seborrheic dermatitis",
+    "treatment": "You should wash affected areas gently, use medicated shampoo, avoid oily products, and manage flare triggers."
+  },
+  {
+    "disease": "labyrinthitis",
+    "treatment": "You should rest, drink fluids, avoid sudden movements, and do vestibular exercises after the acute phase."
+  },
+  {
+    "disease": "anxiety",
+    "treatment": "You should start CBT, practice breathing exercises, maintain regular sleep, exercise, manage stress, and reduce caffeine."
+  },
+  {
+    "disease": "bell palsy",
+    "treatment": "You should protect the eye, use artificial tears, tape the eye at night if needed, and do facial exercises."
+  },
+  {
+    "disease": "conjunctivitis due to allergy",
+    "treatment": "You should avoid allergens, apply cold compresses, avoid rubbing the eyes, and maintain eye hygiene."
+  },
+  {
+    "disease": "drug reaction",
+    "treatment": "You should stop the suspected drug only with medical advice unless the reaction is severe, and seek urgent care for swelling or breathing difficulty."
+  },
+  {
+    "disease": "osteoarthritis",
+    "treatment": "You should exercise regularly, manage weight, do physiotherapy, protect joints, and use heat or cold therapy."
+  },
+  {
+    "disease": "macular degeneration",
+    "treatment": "You should follow eye-specialist care, stop smoking, eat a healthy diet, use vision aids, and monitor vision changes."
+  },
+  {
+    "disease": "pneumonia",
+    "treatment": "You should rest, drink fluids, monitor breathing, and seek medical care if fever or shortness of breath is severe."
+  },
+  {
+    "disease": "fracture of the rib",
+    "treatment": "You should rest, avoid heavy activity, do breathing exercises, and seek urgent care if breathing becomes difficult."
+  },
+  {
+    "disease": "vaginal cyst",
+    "treatment": "You should use warm sitz baths, avoid squeezing the cyst, and see a gynecologist if it is painful, large, or infected."
+  },
+  {
+    "disease": "alcohol abuse",
+    "treatment": "You should start counseling, support groups, relapse-prevention planning, nutrition support, and supervised detox if dependent."
+  },
+  {
+    "disease": "carpal tunnel syndrome",
+    "treatment": "You should use a wrist splint, avoid repetitive wrist strain, improve ergonomics, and do physiotherapy."
+  },
+  {
+    "disease": "kidney stone",
+    "treatment": "You should drink fluids if allowed, manage pain, strain urine if advised, and seek urgent care for fever or blocked urine."
+  },
+  {
+    "disease": "chronic glaucoma",
+    "treatment": "You should use eye drops regularly, monitor eye pressure, and follow up with an eye specialist to prevent vision loss."
+  },
+  {
+    "disease": "nose disorder",
+    "treatment": "You should use saline spray, avoid irritants, manage allergies, and consult ENT if blockage or bleeding persists."
+  },
+  {
+    "disease": "dental caries",
+    "treatment": "You should brush with fluoride toothpaste, reduce sugary foods, floss daily, and get dental fillings when needed."
+  },
+  {
+    "disease": "muscle spasm",
+    "treatment": "You should stretch gently, hydrate, apply heat or ice, rest the affected muscle, and correct posture."
+  },
+  {
+    "disease": "itching of unknown cause",
+    "treatment": "You should moisturize the skin, avoid hot baths and irritants, wear loose clothes, and get checked if itching persists."
+  },
+  {
+    "disease": "corneal abrasion",
+    "treatment": "You should avoid rubbing the eye, stop contact lens use, protect the eye, and follow eye-specialist advice."
+  },
+  {
+    "disease": "hypertensive heart disease",
+    "treatment": "You should control blood pressure, reduce salt, exercise safely, manage weight, and control cholesterol and diabetes."
+  },
+  {
+    "disease": "alcohol withdrawal",
+    "treatment": "You should get medical supervision because alcohol withdrawal can cause seizures or delirium. Hydration and monitoring are important."
+  },
+  {
+    "disease": "hemiplegia",
+    "treatment": "You should treat the cause and start rehabilitation with physiotherapy, occupational therapy, speech therapy, and fall prevention."
+  },
+  {
+    "disease": "seasonal allergies (hay fever)",
+    "treatment": "You should avoid pollen exposure, close windows during high pollen, use a mask outdoors, and rinse the nose with saline."
+  },
+  {
+    "disease": "dry eye of unknown cause",
+    "treatment": "You should take screen breaks, avoid dry wind, use warm compresses, maintain eyelid hygiene, and stay hydrated."
+  },
+  {
+    "disease": "fungal infection of the hair",
+    "treatment": "You should keep the scalp clean, avoid sharing combs or hats, and treat close contacts if needed."
+  },
+  {
+    "disease": "tooth abscess",
+    "treatment": "You should seek urgent dental care for drainage, root canal, or extraction because infection can spread."
+  },
+  {
+    "disease": "rectal disorder",
+    "treatment": "You should increase fiber and water, avoid straining, maintain hygiene, and get checked if bleeding or severe pain occurs."
+  },
+  {
+    "disease": "stye",
+    "treatment": "You should apply warm compresses, clean the eyelids, avoid squeezing the stye, and avoid eye makeup temporarily."
+  },
+  {
+    "disease": "oral mucosal lesion",
+    "treatment": "You should maintain oral hygiene, avoid tobacco and spicy irritants, and get dental or ENT evaluation if the lesion persists."
+  },
+  {
+    "disease": "intracerebral hemorrhage",
+    "treatment": "You should seek emergency hospital care. ICU monitoring, blood-pressure control, neurosurgery, and rehabilitation may be needed."
+  },
+  {
+    "disease": "ganglion cyst",
+    "treatment": "You should observe it if painless, avoid repetitive stress, use a splint if needed, and consult orthopedics if painful."
+  },
+  {
+    "disease": "skin disorder",
+    "treatment": "You should keep skin clean and moisturized, avoid triggers, and consult dermatology for diagnosis-specific care."
+  },
+  {
+    "disease": "tooth disorder",
+    "treatment": "You should get a dental examination, brush and floss properly, and treat cavities, gum disease, or tooth damage early."
+  },
+  {
+    "disease": "heart attack",
+    "treatment": "You should seek emergency care immediately. Hospital treatment may include ECG, oxygen if needed, angioplasty, and cardiac monitoring."
+  },
+  {
+    "disease": "fracture of the leg",
+    "treatment": "You should immobilize the leg, avoid weight-bearing, get an X-ray, and follow orthopedic care."
+  },
+  {
+    "disease": "oral thrush (yeast infection)",
+    "treatment": "You should maintain oral hygiene, clean dentures, control diabetes if present, and rinse the mouth after steroid inhaler use."
+  },
+  {
+    "disease": "obstructive sleep apnea (osa)",
+    "treatment": "You should lose weight if needed, sleep on your side, avoid alcohol or sedatives, and use CPAP regularly."
+  },
+  {
+    "disease": "psoriasis",
+    "treatment": "You should moisturize the skin, avoid triggers, manage stress, and follow dermatology care."
+  },
+  {
+    "disease": "arthritis of the hip",
+    "treatment": "You should exercise gently, manage weight, do physiotherapy, use walking support if needed, and avoid high-impact strain."
+  },
+  {
+    "disease": "sensorineural hearing loss",
+    "treatment": "You should get a hearing test, use hearing aids if needed, and seek urgent ENT care for sudden hearing loss."
+  },
+  {
+    "disease": "sickle cell crisis",
+    "treatment": "You should seek urgent care for severe pain, fever, chest pain, or breathing problems. Hydration and warmth are important."
+  },
+  {
+    "disease": "prostatitis",
+    "treatment": "You should drink fluids, avoid bladder irritants, take warm baths, and follow urology care if symptoms recur."
+  },
+  {
+    "disease": "otitis externa (swimmer's ear)",
+    "treatment": "You should keep the ear dry, avoid inserting objects, and protect the ear while bathing or swimming."
+  },
+  {
+    "disease": "acute bronchiolitis",
+    "treatment": "You should give supportive care with fluids, nasal suction, rest, and urgent care if the child has breathing difficulty."
+  },
+  {
+    "disease": "insect bite",
+    "treatment": "You should wash the area, apply a cold compress, avoid scratching, and watch for allergy or infection."
+  },
+  {
+    "disease": "paroxysmal ventricular tachycardia",
+    "treatment": "You should seek urgent cardiology care, especially with fainting, chest pain, or low blood pressure."
+  },
+  {
+    "disease": "pyogenic skin infection",
+    "treatment": "You should keep the area clean, avoid squeezing abscesses, cover wounds, and seek care for spreading redness or fever."
+  },
+  {
+    "disease": "viral exanthem",
+    "treatment": "You should rest, drink fluids, control fever, avoid scratching, and isolate if contagious."
+  },
+  {
+    "disease": "noninfectious gastroenteritis",
+    "treatment": "You should hydrate, eat bland foods, avoid triggers, and review medicines, food intolerance, or inflammatory causes."
+  },
+  {
+    "disease": "benign prostatic hyperplasia (bph)",
+    "treatment": "You should reduce evening fluids and caffeine, urinate on a schedule, and follow urology care if symptoms are bothersome."
+  },
+  {
+    "disease": "cataract",
+    "treatment": "You should improve lighting and glasses early, avoid unsafe night driving, and consider cataract surgery when vision affects daily life."
+  },
+  {
+    "disease": "spinal stenosis",
+    "treatment": "You should do physiotherapy, posture correction, flexion-based exercises, and seek spine care if nerve symptoms are severe."
+  },
+  {
+    "disease": "acute bronchitis",
+    "treatment": "You should rest, drink fluids, use humidified air, avoid smoking, and monitor breathing."
+  },
+  {
+    "disease": "ischemic heart disease",
+    "treatment": "You should follow a heart-healthy diet, exercise as advised, stop smoking, and control BP, diabetes, and cholesterol."
+  },
+  {
+    "disease": "croup",
+    "treatment": "You should keep the child calm, give fluids, use cool mist if helpful, and seek urgent care for noisy breathing at rest."
+  },
+  {
+    "disease": "idiopathic excessive menstruation",
+    "treatment": "You should track bleeding, check for anemia, and consult gynecology to rule out fibroids or hormonal causes."
+  },
+  {
+    "disease": "ear drum damage",
+    "treatment": "You should keep the ear dry, avoid inserting objects, and follow ENT care."
+  },
+  {
+    "disease": "erectile dysfunction",
+    "treatment": "You should control diabetes and blood pressure, stop smoking, exercise, reduce alcohol, and manage stress."
+  },
+  {
+    "disease": "temporary or benign blood in urine",
+    "treatment": "You should get urine testing and evaluation to rule out UTI, stone, kidney disease, or tumor if it persists."
+  },
+  {
+    "disease": "onychomycosis",
+    "treatment": "You should keep nails dry and trimmed, avoid sharing nail tools, and maintain foot hygiene."
+  },
+  {
+    "disease": "iron deficiency anemia",
+    "treatment": "You should eat iron-rich foods, improve nutrition, and find the cause of blood loss if present."
+  },
+  {
+    "disease": "tendinitis",
+    "treatment": "You should rest the tendon, apply ice, avoid repetitive strain, and start stretching and strengthening physiotherapy."
+  },
+  {
+    "disease": "common cold",
+    "treatment": "You should rest, drink fluids, use saline nasal spray, and avoid unnecessary antibiotics because the common cold is usually viral."
+  },
+  {
+    "disease": "depression",
+    "treatment": "You should start psychotherapy, maintain regular sleep and exercise, seek social support, and get urgent help for suicidal thoughts."
+  },
+  {
+    "disease": "drug abuse",
+    "treatment": "You should start addiction counseling, join support groups, build a relapse-prevention plan, and treat mental health triggers."
+  },
+  {
+    "disease": "urinary tract obstruction",
+    "treatment": "You should seek urology care, especially if you cannot urinate, have fever, or severe pain. The blockage must be relieved."
+  },
+  {
+    "disease": "varicocele of the testicles",
+    "treatment": "You should use scrotal support, avoid heavy strain if painful, and consult urology for pain or infertility."
+  },
+  {
+    "disease": "irritable bowel syndrome",
+    "treatment": "You should identify food triggers, manage stress, exercise, improve sleep, and consider a low-FODMAP diet if advised."
+  },
+  {
+    "disease": "lipoma",
+    "treatment": "You should observe it if it is small and painless, and remove it if painful, growing, or uncertain."
+  },
+  {
+    "disease": "rheumatoid arthritis",
+    "treatment": "You should follow rheumatology care, protect joints, exercise gently, and start early disease control."
+  },
+  {
+    "disease": "impetigo",
+    "treatment": "You should keep lesions clean, avoid scratching, cover sores, wash hands, and avoid sharing towels."
+  },
+  {
+    "disease": "idiopathic irregular menstrual cycle",
+    "treatment": "You should track cycles and consult gynecology to check pregnancy, thyroid disease, PCOS, stress, or weight changes."
+  },
+  {
+    "disease": "interstitial lung disease",
+    "treatment": "You should follow pulmonology care, avoid smoking and lung irritants, do pulmonary rehab, and use oxygen if needed."
+  },
+  {
+    "disease": "mononeuritis",
+    "treatment": "You should treat the underlying cause, protect the affected nerve, do physiotherapy, and follow neurology care."
+  },
+  {
+    "disease": "schizophrenia",
+    "treatment": "You should maintain long-term psychiatric care, therapy, family support, routine, and relapse-prevention planning."
+  },
+  {
+    "disease": "sepsis",
+    "treatment": "You should seek emergency hospital care immediately. Rapid infection control, IV fluids, oxygen, and ICU care may be needed."
+  },
+  {
+    "disease": "cholecystitis",
+    "treatment": "You should seek hospital care, avoid food initially if advised, receive IV fluids, and consider gallbladder surgery."
+  },
+  {
+    "disease": "social phobia",
+    "treatment": "You should start CBT or exposure therapy, practice social skills, use relaxation training, and reduce avoidance."
+  },
+  {
+    "disease": "ear wax impaction",
+    "treatment": "You should use wax-softening drops and avoid pushing cotton buds deep into the ear."
+  },
+  {
+    "disease": "rosacea",
+    "treatment": "You should avoid triggers, use sunscreen, follow gentle skin care, and avoid harsh products."
+  },
+  {
+    "disease": "post-traumatic stress disorder (ptsd)",
+    "treatment": "You should start trauma-focused CBT or EMDR, practice grounding techniques, maintain sleep routine, and avoid alcohol or drugs."
+  },
+  {
+    "disease": "blepharitis",
+    "treatment": "You should apply warm compresses, clean eyelids daily, gently massage the lids, and avoid eye makeup during flare-ups."
+  },
+  {
+    "disease": "cystitis",
+    "treatment": "You should drink fluids, avoid bladder irritants, urinate regularly, and seek care if fever or flank pain occurs."
+  },
+  {
+    "disease": "hemorrhoids",
+    "treatment": "You should increase fiber and water, avoid straining, take sitz baths, exercise, and avoid long toilet sitting."
+  },
+  {
+    "disease": "contact dermatitis",
+    "treatment": "You should identify and avoid the trigger, wash exposed skin, moisturize regularly, and protect the skin barrier."
+  },
+  {
+    "disease": "sinus bradycardia",
+    "treatment": "You should evaluate the cause, review medicines, and treat thyroid or electrolyte problems if present."
+  },
+  {
+    "disease": "pelvic inflammatory disease",
+    "treatment": "You should start treatment early, avoid sex until treatment is complete, and ensure partner testing and treatment."
+  },
+  {
+    "disease": "liver disease",
+    "treatment": "You should avoid alcohol, maintain healthy weight, treat hepatitis or fatty liver causes, and follow liver-specialist care."
+  },
+  {
+    "disease": "chronic constipation",
+    "treatment": "You should increase fiber, drink enough water, exercise, build a regular bowel routine, and avoid ignoring the urge."
+  },
+  {
+    "disease": "flu",
+    "treatment": "You should rest, drink fluids, control fever, and isolate to reduce spread. High-risk patients should seek care early."
+  },
+  {
+    "disease": "skin polyp",
+    "treatment": "You should observe it if harmless and remove it if irritated, bleeding, painful, or uncertain."
+  },
+  {
+    "disease": "brachial neuritis",
+    "treatment": "You should rest during acute pain, do physiotherapy to maintain shoulder movement, and follow neurology or orthopedic care."
+  },
+  {
+    "disease": "esophagitis",
+    "treatment": "You should avoid reflux triggers, eat smaller meals, avoid lying down after eating, and treat infection or allergy if present."
+  },
+  {
+    "disease": "diverticulitis",
+    "treatment": "You should rest the bowel with light or liquid diet initially, hydrate, and seek urgent care for fever or severe pain."
+  },
+  {
+    "disease": "psychotic disorder",
+    "treatment": "You should get psychiatric assessment, follow a safety plan, maintain family support, therapy, and sleep routine."
+  },
+  {
+    "disease": "smoking or tobacco addiction",
+    "treatment": "You should make a quit plan, avoid triggers, get counseling, use support groups, and follow relapse-prevention steps."
+  },
+  {
+    "disease": "sprain or strain",
+    "treatment": "You should rest, apply ice, use compression, elevate the area, avoid overuse, and gradually return to activity."
+  },
+  {
+    "disease": "idiopathic painful menstruation",
+    "treatment": "You should use heat therapy, exercise gently, rest, track cycles, and consult gynecology if pain is severe or new."
+  },
+  {
+    "disease": "eustachian tube dysfunction (ear disorder)",
+    "treatment": "You should swallow, yawn, chew gum, use nasal saline, manage allergies, and see ENT if symptoms persist."
+  },
+  {
+    "disease": "appendicitis",
+    "treatment": "You should seek emergency hospital care because appendicitis often needs surgery."
+  },
+  {
+    "disease": "hyperemesis gravidarum",
+    "treatment": "You should follow obstetric care, take small frequent meals, avoid triggers, and monitor weight and hydration."
+  },
+  {
+    "disease": "pleural effusion",
+    "treatment": "You should treat the underlying cause and get oxygen or fluid drainage if breathing is affected."
+  },
+  {
+    "disease": "sialoadenitis",
+    "treatment": "You should drink fluids, apply warm compresses, massage the gland, use sour candy, and maintain oral hygiene."
+  },
+  {
+    "disease": "urinary tract infection",
+    "treatment": "You should drink fluids, urinate regularly, avoid bladder irritants, and seek care for fever, flank pain, or pregnancy."
+  },
+  {
+    "disease": "ankylosing spondylitis",
+    "treatment": "You should do daily stretching, posture exercises, physiotherapy, stop smoking, and follow rheumatology care."
+  },
+  {
+    "disease": "peripheral nerve disorder",
+    "treatment": "You should treat the cause such as diabetes or vitamin deficiency, protect hands and feet, and do physiotherapy."
+  },
+  {
+    "disease": "sebaceous cyst",
+    "treatment": "You should observe it if small, apply warm compresses if inflamed, avoid squeezing, and remove it if recurrent."
+  },
+  {
+    "disease": "neurosis",
+    "treatment": "You should start psychotherapy or CBT, practice stress management, maintain sleep routine, exercise, and use relaxation training."
+  },
+  {
+    "disease": "seborrheic keratosis",
+    "treatment": "You should usually leave it alone if harmless, but remove it if irritated, bleeding, or diagnosis is uncertain."
+  },
+  {
+    "disease": "spontaneous abortion",
+    "treatment": "You should seek obstetric care, monitor bleeding and pain, and get urgent care for heavy bleeding or fever."
+  },
+  {
+    "disease": "adjustment reaction",
+    "treatment": "You should get counseling, manage stress, seek social support, maintain sleep routine, and use problem-solving therapy."
+  },
+  {
+    "disease": "gallstone",
+    "treatment": "You should avoid fatty meals during attacks and seek urgent care for fever, jaundice, or severe pain."
+  },
+  {
+    "disease": "multiple sclerosis",
+    "treatment": "You should follow neurology care, do physiotherapy, exercise, manage fatigue, and prevent relapses."
+  },
+  {
+    "disease": "angina",
+    "treatment": "You should rest during chest pain, avoid triggers, follow a heart-healthy lifestyle, and seek urgent care for new or worsening pain."
+  },
+  {
+    "disease": "skin pigmentation disorder",
+    "treatment": "You should protect skin from sun, avoid irritation, treat the underlying cause, and consult dermatology."
+  },
+  {
+    "disease": "diabetic ketoacidosis",
+    "treatment": "You should seek emergency hospital care because DKA is life-threatening."
+  },
+  {
+    "disease": "personality disorder",
+    "treatment": "You should start long-term psychotherapy such as DBT or CBT, make a crisis plan, and build coping skills."
+  },
+  {
+    "disease": "strep throat",
+    "treatment": "You should rest, drink fluids, avoid spreading infection, and confirm with throat testing when possible."
+  },
+  {
+    "disease": "gastritis",
+    "treatment": "You should avoid alcohol, smoking, NSAIDs, spicy triggers, and eat smaller meals."
+  },
+  {
+    "disease": "skin cancer",
+    "treatment": "You should get dermatology or oncology care, confirm diagnosis by biopsy, protect from sun, and treat based on type and stage."
+  },
+  {
+    "disease": "developmental disability",
+    "treatment": "You should start early intervention, speech therapy, occupational therapy, physical therapy, special education, and family support."
+  },
+  {
+    "disease": "acute stress reaction",
+    "treatment": "You should ensure safety, get emotional support, rest, use grounding techniques, and consider short-term counseling."
+  },
+  {
+    "disease": "delirium",
+    "treatment": "You should seek medical evaluation because delirium often has a serious cause. Treat infection, dehydration, metabolic problems, or medicine side effects."
+  },
+  {
+    "disease": "callus",
+    "treatment": "You should reduce pressure and friction, wear proper footwear, moisturize, and gently file thick skin."
+  },
+  {
+    "disease": "deviated nasal septum",
+    "treatment": "You should use saline spray, manage allergies, and consult ENT if breathing blockage is severe."
+  },
+  {
+    "disease": "hemangioma",
+    "treatment": "You should monitor it if small and uncomplicated, and treat it if it affects vision, breathing, bleeding, or appearance."
+  },
+  {
+    "disease": "chronic back pain",
+    "treatment": "You should exercise, do physiotherapy, correct posture, manage weight, improve ergonomics, and use CBT or pain-management support if needed."
+  },
+  {
+    "disease": "heart failure",
+    "treatment": "You should reduce salt, monitor weight and swelling, exercise as advised, avoid smoking, and follow cardiology care."
+  },
+  {
+    "disease": "conjunctivitis",
+    "treatment": "You should maintain eye hygiene, avoid touching eyes, avoid sharing towels, and stop contact lenses temporarily."
+  },
+  {
+    "disease": "herniated disk",
+    "treatment": "You should rest briefly, do physiotherapy, correct posture, avoid heavy lifting, and seek urgent care for weakness or bladder symptoms."
+  },
+  {
+    "disease": "breast infection (mastitis)",
+    "treatment": "You should continue breastfeeding or pumping if advised, use warm compresses, rest, drink fluids, and correct the baby’s latch."
+  },
+  {
+    "disease": "pulmonary embolism",
+    "treatment": "You should seek emergency hospital care. Oxygen, clot-risk evaluation, and close monitoring are important."
+  },
+  {
+    "disease": "conduct disorder",
+    "treatment": "You should use behavioral therapy, parent-management training, family therapy, school support, and treat ADHD or substance use if present."
+  },
+  {
+    "disease": "epididymitis",
+    "treatment": "You should rest, elevate the scrotum, use ice packs, avoid sex if STI is suspected, and ensure partner testing if needed."
+  },
+  {
+    "disease": "molluscum contagiosum",
+    "treatment": "You should avoid scratching or shaving lesions, avoid sharing towels, and allow natural clearing if mild."
+  },
+  {
+    "disease": "benign vaginal discharge (leukorrhea)",
+    "treatment": "You should maintain gentle hygiene, avoid scented products or douching, and get tested if there is odor, itching, pain, or bleeding."
+  },
+  {
+    "disease": "laryngitis",
+    "treatment": "You should rest your voice, drink fluids, use humidified air, avoid smoking, and treat reflux or allergy triggers."
+  },
+  {
+    "disease": "diaper rash",
+    "treatment": "You should change diapers frequently, keep the area dry, use barrier cream, and allow air exposure."
+  },
+  {
+    "disease": "gastroduodenal ulcer",
+    "treatment": "You should avoid NSAIDs, smoking, alcohol, and irritating foods, and treat H. pylori if present."
+  },
+  {
+    "disease": "eczema",
+    "treatment": "You should moisturize often, avoid triggers, use gentle soap, avoid scratching, and treat flares early."
+  },
+  {
+    "disease": "white blood cell disease",
+    "treatment": "You should get hematology evaluation because treatment depends on whether the cause is infection, immune disease, leukemia, or bone-marrow problem."
+  },
+  {
+    "disease": "spondylolisthesis",
+    "treatment": "You should do physiotherapy, strengthen core muscles, correct posture, avoid heavy strain, and seek spine care if nerve symptoms occur."
+  },
+  {
+    "disease": "conjunctivitis due to virus",
+    "treatment": "You should use cold compresses, artificial tears, hand hygiene, avoid sharing towels, and avoid contact lenses until better."
+  },
+  {
+    "disease": "fracture of the arm",
+    "treatment": "You should keep the injured arm immobilized with a splint or sling and avoid unnecessary movement until medical evaluation is completed. Prompt clinical assessment and imaging are required to determine the fracture type and definitive management. Seek urgent medical care if there is an open wound, severe deformity, numbness, weakness, or impaired circulation in the injured arm.",
+    "sources": [
+      {
+        "source_name": "Adult Forearm Fractures",
+        "organization": "American Academy of Orthopaedic Surgeons",
+        "source_type": "Official orthopaedic clinical resource",
+        "url": "https://orthoinfo.aaos.org/diseases--conditions/adult-forearm-fractures"
+      }
+    ]
+  },
+  {
+    "disease": "hypokalemia",
+    "treatment": "You should receive medical evaluation to confirm the potassium level, identify the underlying cause, and determine an appropriate potassium-replacement strategy. The cause of potassium loss or redistribution should also be managed. Seek urgent medical attention if severe muscle weakness, paralysis, breathing difficulty, palpitations, fainting, or an abnormal heart rhythm occurs.",
+    "sources": [
+      {
+        "source_name": "Hypokalemia",
+        "organization": "Merck Manual Professional Edition",
+        "source_type": "Peer-reviewed professional medical reference",
+        "url": "https://www.merckmanuals.com/professional/nephrology/electrolyte-disorders/hypokalemia"
+      }
+    ]
+  },
+  {
+    "disease": "inguinal hernia",
+    "treatment": "You should obtain clinical or surgical evaluation to determine whether observation or operative repair is appropriate. Management depends on the severity of symptoms, hernia characteristics, and individual risk factors. Seek emergency medical care if the hernia becomes suddenly painful, cannot be reduced, or is associated with vomiting, abdominal swelling, or other signs of obstruction or strangulation.",
+    "sources": [
+      {
+        "source_name": "Update of the International HerniaSurge Guidelines for Groin Hernia Management",
+        "organization": "HerniaSurge Collaboration",
+        "source_type": "International evidence-based clinical guideline",
+        "year": 2023,
+        "pmid": "37862616",
+        "pmcid": "PMC10588975",
+        "doi": "10.1093/bjsopen/zrad080",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37862616/"
+      },
+      {
+        "source_name": "International Guidelines for Groin Hernia Management",
+        "organization": "HerniaSurge Group",
+        "source_type": "International evidence-based clinical guideline",
+        "year": 2018,
+        "pmid": "29330835",
+        "pmcid": "PMC5809582",
+        "doi": "10.1007/s10029-017-1668-x",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29330835/"
+      }
+    ]
+  },
+  {
+    "disease": "oppositional disorder",
+    "treatment": "You should seek assessment from a qualified child and adolescent mental-health professional. Management may include parent-management training, individual psychotherapy, family psychotherapy, cognitive problem-solving training, social-skills interventions, and coordination with the child's school. Coexisting conditions such as ADHD, anxiety, or mood disorders should also be assessed and managed.",
+    "sources": [
+      {
+        "source_name": "Children With Oppositional Defiant Disorder",
+        "organization": "American Academy of Child and Adolescent Psychiatry",
+        "source_type": "Official professional clinical education resource",
+        "url": "https://www.aacap.org/AACAP/AACAP/Families_and_Youth/Facts_for_Families/FFF-Guide/Children-With-Oppositional-Defiant-Disorder-072.aspx"
+      },
+      {
+        "source_name": "Oppositional Defiant Disorder: Frequently Asked Questions",
+        "organization": "American Academy of Child and Adolescent Psychiatry",
+        "source_type": "Official professional clinical education resource",
+        "url": "https://www.aacap.org/AACAP/Familes_Youth/AACAP/Families_and_Youth/Resource_Centers/Oppositional_Defiant_Disorder_Resource_Center/FAQ.aspx"
+      }
+    ]
+  }
+]
